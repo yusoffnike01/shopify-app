@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
     "@shopify/app-bridge": "^1.28.0",
     "@shopify/app-bridge-react": "^1.28.0",
     "@shopify/koa-shopify-auth": "^3.2.0",
